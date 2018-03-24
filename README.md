@@ -44,7 +44,7 @@ We currently support authentication with Facebook. And for email support and sen
 
 **Note:** We will soon make an upgrade to sendgrid. 
 
-![](https://i.imgur.com/wfuwHEh.png)
+![](https://i.imgur.com/3HXmlmb.png)
 
 **Admin Interface:**
 
