@@ -8,8 +8,7 @@ By teaching what you already know about your profession or hobby, you'll learn m
 #Odamy
 > With Codedemy you can create and sell your own courses. It's like Udemy but open source. 
 
-<img src="https://camo.githubusercontent.com/fc9b2baa17a25296539edf26efe920652054a99e/687474703a2f2f692e696d6775722e636f6d2f547776565079642e706e67" alt="" data-canonical-src="https://i.imgur.com/TwvVPyd.png" style="max-width:100%;box-shadow: 0 15px 35px rgba(50, 50, 93, 0.1), 0 5px 15px rgba(0, 0, 0, 0.07);">
-
+<a href="https://imgur.com/MgHAw40"><img src="https://i.imgur.com/MgHAw40.png" title="source: imgur.com" /></a>
 
 ##Features
 
@@ -27,7 +26,7 @@ Example: https://priyanshuvarshney6.wistia.com/medias/wpfwulycvd
 Add **wpfwulycvd** when creating a course intro or lesson. 
 
 
-![](https://imgur.com/a/qJ3Pw)
+![](https://i.imgur.com/U7U40P5.png)
 
 **Markdown:** 
 
@@ -36,7 +35,7 @@ We also love markdown. So to create those lessons notes we are using github-mark
 
 **Materialize Design:** 
 
-You can customize the design. We are using [Materialize css](http://materializecss.com/). Its pretty nice.   
+You can customize the design. We are using [Materialize css](http://materializecss.com/) and Jumbotron Template. Its pretty nice.   
 
 
 **Authentication:** 
@@ -45,13 +44,13 @@ We currently support authentication with Facebook. And for email support and sen
 
 **Note:** We will soon make an upgrade to sendgrid. 
 
-![](https://i.imgur.com/U7U40P5.png)
+![](https://i.imgur.com/wfuwHEh.png)
 
 **Admin Interface:**
 
 For our admin interface we are using ActiveAdmin. You can easily manage every course and every lesson using sortable tree. 
 
-![](https://i.imgur.com/Kd8qjfA.png)
+![](https://i.imgur.com/a7WwgAQ.png)
 
 
 ## Installing 
@@ -66,6 +65,7 @@ Fork or download the repo.
 - React
 - NodeJS
 - MongoDb 
+
 **Note:** We will soon shift to  Rails 4.2.0, Ruby 2.3.0, Sqlite3 3.15.0 
 
 ## Variables
