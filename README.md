@@ -21,10 +21,10 @@ You can set your own price for every courses that's created.
 
 We are using the Wistia API to manage our content. All you have to do is pull out the last digits on the URL from your video. 
 
-Example: https://setih.wistia.com/medias/pz88xvd5uk
+Example: https://priyanshuvarshney6.wistia.com/medias/wpfwulycvd
 
 
-Add **pz88xvd5uk** when creating a course intro or lesson. 
+Add **wpfwulycvd** when creating a course intro or lesson. 
 
 
 ![](https://i.imgur.com/EElmXzU.png?1)
