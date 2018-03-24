@@ -27,7 +27,7 @@ Example: https://priyanshuvarshney6.wistia.com/medias/wpfwulycvd
 Add **wpfwulycvd** when creating a course intro or lesson. 
 
 
-![](https://i.imgur.com/EElmXzU.png?1)
+![](https://imgur.com/a/qJ3Pw)
 
 **Markdown:** 
 
