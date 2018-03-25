@@ -12,6 +12,4 @@ var CourseSchema = new Schema({
   }],
   totalStudents: Number
 });
-
-
 module.exports = mongoose.model('Course', CourseSchema);

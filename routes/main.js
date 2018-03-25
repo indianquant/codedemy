@@ -1,8 +1,6 @@
 var Course = require('../models/course');
 var User = require('../models/user');
-
 var async = require('async');
-
 module.exports = function(app) {
 
   app.get('/', function(req, res, next) {

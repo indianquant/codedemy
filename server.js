@@ -13,8 +13,6 @@ var flash = require('express-flash');
 var app = express();
 
 var secret = require('./config/secret');
-
-
 mongoose.connect(secret.database, function(err) {
   if (err) {
     console.log(err);

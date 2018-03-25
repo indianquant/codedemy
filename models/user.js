@@ -10,11 +10,9 @@ var UserSchema = new Schema({
     name: { type: String, default: ''},
     picture: { type: String, default: ''}
   },
-
   coursesTeach: [{
     course: { type: Schema.Types.ObjectId, ref: 'Course'}
   }],
-
   coursesTaken: [{
     course: { type: Schema.Types.ObjectId, ref: 'Course'}
   }],
