@@ -47,10 +47,10 @@ passport.use(new FacebookStrategy(secret.facebook, function(req, token, refreshT
         function(newUser, callback) {
           //Mailchimp request
           request({
-            url: 'https://us14.api.mailchimp.com/3.0/lists/08a0214fa0/members',
+            url: 'https://us12.api.mailchimp.com/3.0/lists/d1735ac501/members',
             method: 'POST',
             headers: {
-              'Authorization': 'randomUser 263765955e88741446110453b6e56f3b-us14',
+              'Authorization': 'randomUser 5af5df64002015c256162999231bf69a-us12',
               'Content-Type': 'application/json'
             },
             json: {
